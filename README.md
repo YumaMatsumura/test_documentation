@@ -1,4 +1,7 @@
 # test_documentation
+## 作成されたドキュメントページ
+https://yumamatsumura.github.io/test_documentation/
+
 ## 環境セットアップ
 **mkdocsを利用するためのパッケージ**  
 ```bash
