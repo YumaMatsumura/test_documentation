@@ -1,0 +1,5 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - Hogehoge: hogehoge.md
+theme: readthedocs
