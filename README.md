@@ -37,6 +37,12 @@ cd [ドキュメント名]
 mkdocs serve
 ```
 
+4. githubと連携させたいときは、一つ前のディレクトリに戻り、gh-deployを実行する。実行することで、新たにgithubにgh-pagesブランチが作成される。
+```bash
+cd ..
+mkdocs gh-deploy
+```
+
 ## mkdocs.ymlの編集
 ```
 site_name: [ドキュメント名]
@@ -48,4 +54,5 @@ thema: [テーマ名]
 ## 参考
 - https://blog.goediy.com/?p=502
 - https://zenn.dev/mebiusbox/articles/81d977a72cee01
+- https://aiedoc.github.io/note/Tips/Mkdocs/mkdocs%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9FGitHubPages/
 
