@@ -1,10 +1,16 @@
 # test_documentation
 ## 環境セットアップ
+**mkdocsを利用するためのパッケージ**  
 ```bash
 pip3 install mkdocs
 ```
+**ja対応するために必要なパッケージ**  
 ```bash
 pip3 install mkdocs-material
+```
+**数式を利用するために必要なパッケージ**  
+```bash
+pip3 install pymdown-extensions
 ```
 
 ## ドキュメントの作成手順（備忘録）
